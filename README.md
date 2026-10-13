@@ -1,6 +1,6 @@
-# Formula 1 Race Analytics — Data Pipeline & Visualization
+# Formula 1 Analytics — Completed Data Pipeline & Visualization Project
 
-An analytics and data-engineering project built around **FastF1**, demonstrating API integration, ETL design, data quality handling, feature engineering, and business-intelligence workflows.
+**Status: Completed project.** An analytics and data-engineering project built around **FastF1**, demonstrating API integration, ETL design, data quality handling, feature engineering, and business-intelligence workflows. The cloud integration items below remain future roadmap ideas, not completed deployments.
 
 ## What this project demonstrates
 
